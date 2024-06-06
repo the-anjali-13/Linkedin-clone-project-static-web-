@@ -4,7 +4,7 @@
 <p>I'm thrilled to share my LinkedIn clone project with you! This project is a result of my journey through the "Build Your Own Static Website" course, where I delved into HTML and CSS to create a stunning replica of LinkedIn. It's a static website that captures the essence of professional networking in a visually appealing way.</p><br>
 
 <h4>Live Demo</h4>
-<p>You can experience the live demo of the website here : anjalilinkedpro.ccbp.tech </p><br>
+<p>You can experience the live demo of the website here : <a href="anjalilinkedpro.ccbp.tech"> project link</a> </p><br>
 
 <h4>Features</h4>
 <p><b>Professional Design:</b> Mimics the layout and design of LinkedIn for a familiar user experience.</p>
