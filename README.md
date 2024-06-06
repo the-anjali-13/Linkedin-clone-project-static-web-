@@ -8,7 +8,7 @@
 
 <h4>Features</h4>
 <p><b>Professional Design:</b> Mimics the layout and design of LinkedIn for a familiar user experience.</p>
-<p><b>Responsive: </b>Optimized for extra-large device sizes for seamless browsing.</p>
+<p><b>Responsive: </b>Optimized for extra-large device sizes for seamless browsing.</p><br>
 
 <h4>Warning</h4>
 <p><b>⚠️ Important: </b>This is a static website optimized for viewing on extra-large device sizes. To avoid layout issues, use desktop view on your mobile device or adjust the view by inspecting the page.</p><br>
